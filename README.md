@@ -1,11 +1,6 @@
 # CS6378 Advanced OS
 Contains the project2 assignments for the advanced os class.
 
-| Student Name |   NetID   |
-| :----------: | :-------: |
-| Kushan Singh | kxs200085 |
-| Akshay Jain  | axj190052 |
-
 # Aim 
 The objective of the project is to check the performance of Lamport’s mutual exclusion protocol with respect to Response Time and System Throughput.
 
